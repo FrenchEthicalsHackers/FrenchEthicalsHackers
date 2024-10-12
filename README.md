@@ -6,7 +6,7 @@ We are a passionate group dedicated to promoting ethical hacking and cybersecuri
 
 ## 🌱 Our Skills
 
-- **Languages:** Python, JavaScript, HTML, CSS
+- **Languages:** Python, JavaScript, HTML, CSS, Batchfile
 - **Technologies:** Git, Docker, AWS
 - **Security Areas:** Pentesting, Vulnerability Analysis, OSINT
 
