@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Welcome to the **French Ethical Hackers** Team!
 
-<!--
-**FrenchEthicalsHackers/FrenchEthicalsHackers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are a passionate group dedicated to promoting ethical hacking and cybersecurity best practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Our Skills
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Technologies:** Git, Docker, AWS
+- **Security Areas:** Pentesting, Vulnerability Analysis, OSINT
+
+---
